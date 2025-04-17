@@ -12,7 +12,7 @@ http://13.218.89.51:8000
 
 ## Authentication
 
-Currently, no authentication is required to use the API. However, this may change in production environments.
+Currently, no authentication is required to use the API.
 
 ## Endpoints
 
